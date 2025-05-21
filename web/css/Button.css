@@ -1,0 +1,72 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Mar 9, 2025, 11:02:08 AM
+    Author     : Admin
+*/
+
+ 
+     
+        .btnSub, .btnAdd {
+            padding: 10px 15px;
+            font-size: 15px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: 0.3s;
+        }
+
+        .btnSub {
+            background-color: #ff4d4d;
+            color: white;
+        }
+
+        .btnAdd {
+            background-color: #4CAF50;
+            color: white;
+        }
+
+        .btnSub:hover {
+            background-color: #ff1a1a;
+        }
+
+        .btnAdd:hover {
+            background-color: #45a049;
+        }
+
+        .align-middle {
+           
+          
+            gap: 20px;
+        }
+
+        strong {
+            font-size: 24px;
+        }
+
+        table {
+            border: 2px solid #ccc;
+            border-radius: 10px;
+            padding: 20px;
+            background: white;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        input[type="submit"] {
+            margin-top: 20px;
+            padding: 10px 20px;
+            font-size: 18px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: 0.3s;
+        }
+
+        input[type="submit"]:hover {
+            background-color: #0056b3;
+        }
+  
